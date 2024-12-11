@@ -19,7 +19,7 @@ Write code to print all prime numbers less than 237 using loops and logical oper
 Write a program that defines an array of integers and calculates the number of zeros using a conditional expression (no `if` statements).
 
 
-Exercises 1, 2, and 3 are included in a folder named "IntroductoryExercise".
+> Exercises 1, 2, and 3 are included in a folder named "IntroductoryExercise".
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
