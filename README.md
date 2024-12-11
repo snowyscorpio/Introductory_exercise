@@ -1,4 +1,4 @@
-# ♡ Introductory Exercise ♡
+# Introductory Exercise
 
 This repository contains solutions to three JavaScript exercises:
 
