@@ -22,6 +22,9 @@ Write a program that defines an array of integers and calculates the number of z
 
 > Exercises 1, 2, and 3 are included in a folder named "IntroductoryExercise".
 
+
+> Don't forget to use `npm install`
+
 ### מגישות:
 - לורן חצרוני כיתה 48/5
 - סוג'וד שאני כיתה 48/5
