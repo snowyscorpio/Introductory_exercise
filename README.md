@@ -23,7 +23,14 @@ Write a program that defines an array of integers and calculates the number of z
 > Exercises 1, 2, and 3 are included in a folder named "IntroductoryExercise".
 
 
-> Don't forget to use `npm install`
+### How to Run:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install Node.js if not already installed.
+(using `npm install`)
+4. Run the following command:
+   ```bash
+   node app.js
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
