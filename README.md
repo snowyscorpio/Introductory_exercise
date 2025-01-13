@@ -25,7 +25,7 @@ Write a program that defines an array of integers and calculates the number of z
 
 ### How to Run:
 1. Clone the repository.
-2. Navigate to the project directory.
+2. Navigate to the project directory using cd in terminal.
 3. Install Node.js if not already installed.
 (using `npm install`)
 4. Run the following command:
